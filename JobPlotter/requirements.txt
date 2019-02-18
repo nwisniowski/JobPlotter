@@ -1,0 +1,15 @@
+Nick Wisniowski
+Project 1.5: Job Plotter
+
+This program scrapes job listings data from Stack Overflow. Jobs within 50 mile radius of New York, NY are pulled and displayed in the terminal window. A Mac OS X notification is displayed and the location of each job posting is plotted on an interactive web-based mapping tool.
+
+Requirements
+
+This application requires the use of python3 and the installation of the lxml, requests, geopy, and plotly modules.
+
+To run:
+1. Install required modules.
+2. Once installed, cd to project directory
+3. Type:
+	python3 project1_5.py
+4. Follow command prompts
